@@ -116,3 +116,7 @@ end
 # Run the app
 app = UserApp.new
 app.run
+# --- AUTOMATION BLOCK START ---
+# This is just a comment to trigger a commit.
+# It will not break the Ruby syntax or CI workflow.
+# --- AUTOMATION BLOCK END ---
