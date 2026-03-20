@@ -116,3 +116,8 @@ end
 # Run the app
 app = UserApp.new
 app.run
+# --- AUTOMATION BLOCK START ---
+def automated_method
+  puts "This is an automated commit"
+end
+# --- AUTOMATION BLOCK END ---
