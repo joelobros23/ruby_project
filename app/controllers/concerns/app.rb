@@ -121,9 +121,3 @@ def automated_method
   puts "This is an automated commit"
 end
 # --- AUTOMATION BLOCK END ---
-
-
-# --- AUTOMATION BLOCK START ---
-# This is just a comment to trigger a commit.
-# It will not break the Ruby syntax or CI workflow.
-# --- AUTOMATION BLOCK END ---
